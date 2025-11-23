@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Developer;Data+Analyst;Problem+Solver+(500%2B+LeetCode);NIT+Srinagar+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Analyst;Problem+Solver+(500%2B+LeetCode);NIT+Srinagar+Student" alt="Typing SVG" />
 
   <h3>🚀 About Me</h3>
   
@@ -10,14 +10,17 @@
     I have solved <b>500+ problems on LeetCode</b> and specialize in building scalable, modular applications using <b>C++</b> and <b>Python</b>.
   </p>
 
-  <p align="center">
-    <a href="mailto:anshuljain2853@gmail.com">
-      <img src="https://img.shields.io/badge/Email-anshuljain2853%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/anshuljain2853">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+<p align="center">
+  <a href="mailto:anshuljain2853@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anshuljain2853%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/anshuljain2853">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/anshul_2853/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 </div>
 
 ---
@@ -40,16 +43,16 @@
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=anshuljain2853&show_icons=true&theme=radical&count_private=true" alt="Anshul's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=2853Anshuljain&show_icons=true&theme=radical&count_private=true" alt="Anshul's GitHub Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuljain2853&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2853Anshuljain&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2853Anshuljain&theme=radical" alt="Streak Stats" />
 </div>
-
 ---
 
 <h3>💻 Top Projects</h3>
@@ -61,10 +64,6 @@
 | **UPI Data Dashboard** | Analyzed large financial datasets to visualize transaction trends and merchant performance using KPI creation and data transformation. | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | [Repo](#) |
 
 ---
-
-<div align="center">
-  <img src="https://github.com/anshuljain2853/anshuljain2853/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
 
 <div align="center">
   <p><i>"Passionate about low-level problem solving and performance optimization."</i></p>
