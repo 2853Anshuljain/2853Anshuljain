@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Developer;Data+Analyst;Problem+Solver+(500%2B+LeetCode);NIT+Srinagar+Scholar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Developer;Data+Analyst;Problem+Solver+(500%2B+LeetCode);NIT+Srinagar+Student" alt="Typing SVG" />
 
   <h3>🚀 About Me</h3>
   
@@ -26,9 +26,9 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,java&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python&theme=dark" alt="Languages" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,pandas,sklearn&theme=dark" alt="Backend & Data" />
+    <img src="https://skillicons.dev/icons?i=mysql,pandas,sklearn&theme=dark" alt="Backend & Data" />
     &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=git,vscode,github,linux&theme=dark" alt="Tools" />
   </p>
@@ -48,7 +48,6 @@
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuljain2853&theme=radical" alt="Streak Stats" />
 </div>
 
 ---
